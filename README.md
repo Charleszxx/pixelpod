@@ -1,4 +1,4 @@
-<img width="2732" height="2732" alt="Untitled design (12)" src="https://github.com/user-attachments/assets/5f904a31-bf47-4f47-9b2a-51a9e61b632e" />
+<img width="1024" height="500" alt="Untitled design (15)" src="https://github.com/user-attachments/assets/339022c1-ab5e-4185-8296-afce9c5856ea" />
 
 # PixelPod: Classic Retro Music Player
 
